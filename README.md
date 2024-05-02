@@ -1,5 +1,5 @@
-GUI Development: It utilize the tkinter library to create a user-friendly interface for loading, cleaning, and processing data. This demonstrates your ability to develop intuitive graphical interfaces for the applications.
-Data Processing: The script includes functions for loading CSV data files, cleaning the data, and performing various data manipulation tasks, such as filtering, merging, and calculating summary statistics.
-Data Visualization: It incorporate libraries like matplotlib and seaborn for generating informative visualizations, such as bar charts and heatmaps, to analyze and interpret the processed data. This highlights your proficiency in data visualization techniques for biological data analysis.
-Database Integration: It integrate MongoDB for data storage and retrieval, showcasing your ability to work with databases in bioinformatics projects.
-Exception Handling: Throughout the script, it implement robust error handling mechanisms to handle exceptions gracefully, ensuring the reliability and stability of the application.
+1. GUI Development: It utilize the tkinter library to create a user-friendly interface for loading, cleaning, and processing data. This demonstrates your ability to develop intuitive graphical interfaces for the applications. 
+2. Data Processing: The script includes functions for loading CSV data files, cleaning the data, and performing various data manipulation tasks, such as filtering, merging, and calculating summary statistics.
+3. Data Visualization: It incorporate libraries like matplotlib and seaborn for generating informative visualizations, such as bar charts and heatmaps, to analyze and interpret the processed data. This highlights your proficiency in data visualization techniques for biological data analysis.
+4. Database Integration: It integrate MongoDB for data storage and retrieval, showcasing your ability to work with databases in bioinformatics projects.
+5. Exception Handling: Throughout the script, it implement robust error handling mechanisms to handle exceptions gracefully, ensuring the reliability and stability of the application.
